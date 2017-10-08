@@ -8,4 +8,4 @@ function greet() {
 }
 
 console.log(greet());
-Test
+
